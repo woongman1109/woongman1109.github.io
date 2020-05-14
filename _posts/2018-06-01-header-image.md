@@ -1,5 +1,5 @@
 ---
-title: Post with Header Image
+title: 2020_SKKU_OSS_static-page-with-jeckyll-theme
 tags: TeXt
 article_header:
   type: cover
